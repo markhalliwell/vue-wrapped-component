@@ -1,0 +1,10 @@
+{
+  "name": "vue-wrapped-component",
+  "version": "1.0.0",
+  "description": "A functional Vue component that allows any component or element to be conditionally wrapped using another component or element.",
+  "main": "src/WrappedComponent.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "vue": "*"
+  }
+}
