@@ -4,6 +4,10 @@
   "description": "A functional Vue component that allows any component or element to be conditionally wrapped using another component or element.",
   "main": "src/WrappedComponent.js",
   "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/markcarver/vue-wrapped-component.git"
+  },
   "peerDependencies": {
     "vue": "*"
   }
